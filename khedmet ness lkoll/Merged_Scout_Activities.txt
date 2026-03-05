@@ -1,0 +1,513 @@
+activity_name	activity_type	country	date	duration	participants	budget	sdg	unit
+Spring Major Trip	Trip	Tunisia	17/04/2023	1	55	830	Quality Education | Sustainable Cities and Communities	Scouts | Guides | Rovers
+Summer Camp	Camp	Tunisia	15/08/2023	7	120	6600	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Winter Camp	Camp	Tunisia	26/08/2024	4	70	2150	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Winter Camp	Camp	Tunisia	20/07/2025	4	78	1910	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+City Treasure Hunt	Trip	Tunisia	15/07/2025	1	60	590	Sustainable Cities and Communities	Cubs | Flowers | Scouts
+City Treasure Hunt	Trip	Tunisia	18/08/2025	1	65	590	Sustainable Cities and Communities	Cubs | Flowers | Scouts
+The Walking Scout	Trip	Tunisia	26/03/2023	1	55	470	Quality Education | Sustainable Cities and Communities	Scouts
+Legend of the Wild	Trip	Tunisia	17/12/2024	1	62	1000	Quality Education | Sustainable Cities and Communities	Scouts | Guides | Rovers
+Kickoff Camp	Camp	Tunisia	20/08/2025	3	50	1170	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides | Rovers | Rangers
+Kickoff Camp	Camp	Tunisia	22/08/2025	3	58	1290	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides | Rovers | Rangers
+Winter Camp Cubs/Flowers	Camp	Tunisia	05/07/2025	3	22	1190	Quality Education | Good Health and Well-being | Life on Land	Cubs
+Winter Camp Scouts/Guides	Camp	Tunisia	06/08/2025	5	80	2800	Quality Education | Good Health and Well-being | Life on Land	Guides
+Rovers/Rangers Camp	Camp	Tunisia	28/08/2023	4	35	1250	Quality Education | Good Health and Well-being | Life on Land	Rovers
+The Rose Workshop	Workshop	Tunisia	01/06/2023	1	60	2400	Quality Education	Leaders | Rovers | Rangers
+Blue Workshop Sfax V1.0	Workshop	Tunisia	01/06/2023	1	43	3311	Quality Education	Leaders | Rovers | Rangers
+Kerkennah Blue Workshop V2.0	Workshop	Tunisia	01/06/2023	1	60	3480	Quality Education	Leaders | Rovers | Rangers
+National Solidarity Project (Covid-19)	Project	Tunisia	01/06/2023	1	38	4940	Good Health and Well-being | No Poverty	Rovers | Rangers | Leaders
+Madrasti Project	Project	Tunisia	01/06/2023	1	49	6615	Quality Education	Rovers | Rangers | Leaders
+REPAS GALETTE - dimanche 1er février 2026	Activity	France	02/01/2026	2	75	2763.75	Zero Hunger	Cubs | Flowers | Scouts | Guides
+Shop shirts, badges and scarves J. Cassard 2025-2026	Event	France	15/06/2025	3	55	3132.25	Quality Education	Scouts | Guides
+Sale of apple juice - 2025	Event	France	15/06/2025	2	37	1735.3	Quality Education	Scouts | Guides
+Boat rental - Jacques Cassard Nantes marine group	Journey	France	11/07/2025	5	60	2211	Life Below Water	Scouts | Guides
+Scout Guide Camps 2025	Camp	France	15/06/2025	10	146	4891	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camps Piocas 2025	Camp	France	15/06/2025	5	88	3537.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+LJ Camps 2025	Camp	France	15/06/2025	10	149	8485.55	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+CAMP 25 FARFADETS	Camp	France	21/10/2025	8	145	7772	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Farfadets Membership 2025-2026	Activity	France	15/06/2025	2	37	1363.45	Quality Education	Cubs | Flowers | Scouts | Guides
+Donation SGDF - Clichy Saint Médard	Event	France	21/01/2025	1	58	1943	No Poverty	Scouts | Guides
+Individual SGDF Registration	Activity	France	04/05/2025	2	52	2961.4	Quality Education	Cubs | Flowers | Scouts | Guides
+Scout Guide Camps 2025	Camp	France	15/06/2025	4	92	4623	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Piocas Camps 2025	Camp	France	15/06/2025	8	76	2800.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+LJ Camps 2025	Camp	France	15/06/2025	9	50	2847.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Badges and Scarf	Activity	France	03/12/2025	1	64	3216	Quality Education	Cubs | Flowers | Scouts | Guides
+Campagne Calendriers 2026	Camp	France	15/06/2026	7	53	3018.35	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Badges and Scarf	Activity	France	08/06/2023	2	66	2653.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Campaign Calendars 2026	Camp	France	15/06/2026	8	53	1953.05	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+International solidarity project in Madagascar	Event	France	12/03/2025	4	81	3527.55	Partnerships for the Goals | No Poverty	Rovers | Rangers | Leaders
+Camp summer	Camp	France	15/06/2025	7	101	5075.25	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+camp	Activity	France	15/06/2025	2	40	2144	Quality Education	Cubs | Flowers | Scouts | Guides
+Pioka Jamboree Fundraiser	Event	France	21/01/2025	3	39	2090.4	Quality Education	Scouts | Guides
+Operation of the group (Training, etc.)	Activity	France	25/10/2025	1	46	2311.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Equipment for the group	Activity	France	29/08/2025	2	40	2278	Quality Education	Cubs | Flowers | Scouts | Guides
+Leprechauns Equipment Order	Activity	France	13/02/2025	2	60	4221	Quality Education	Cubs | Flowers | Scouts | Guides
+Pour les PC et leurs chef.taines	Activity	France	22/11/2025	2	72	2412	Quality Education	Leaders
+For compasses and their adult support	Activity	France	27/10/2025	2	30	1105.5	No Poverty	Rovers
+Pre-order clothing on behalf of the group	Activity	France	07/08/2025	2	49	3283	Quality Education	Cubs | Flowers | Scouts | Guides
+Cub Scouts Uniform Order	Activity	France	12/01/2025	1	78	4180.8	Quality Education	Cubs
+Scouts & Guides Uniform Order	Activity	France	31/12/2025	1	57	1909.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Champignonnière2026	Activity	France	15/06/2026	1	38	1909.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Camp 2026 Guild of J’ose Yerres	Camp	France	15/06/2026	8	58	2914.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp 2026 - scouts and guides	Camp	France	15/06/2026	5	96	4824	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp 2026 - jeannettes cubs	Camp	France	15/06/2026	8	89	4174.1	Quality Education | Good Health and Well-being | Life on Land	Cubs
+Scarves, Badges 2025	Activity	France	15/06/2025	2	55	3132.25	Quality Education	Cubs | Flowers | Scouts | Guides
+Camp 2026 Guilde de J'ose Yerres	Camp	France	15/06/2026	5	68	3872.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp 2026 - scouts and guides	Camp	France	15/06/2026	10	122	6130.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp 2026 - jeannettes cubs	Camp	France	15/06/2026	8	60	2613	Quality Education | Good Health and Well-being | Life on Land	Cubs
+Support the Caravelles Project of the Rangueil / Toulouse Scout group	Activity	France	25/02/2025	2	74	2726.9	No Poverty	Cubs | Flowers | Scouts | Guides
+Support the Rangueil Scouts and Guides of France Group	Activity	France	08/02/2025	1	45	1809	No Poverty	Cubs | Flowers | Scouts | Guides
+Boutique Compa 2025	Activity	France	15/06/2025	1	75	3517.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Parents' meal	Activity	France	13/12/2025	1	36	1929.6	Zero Hunger	Family
+Make a donation	Event	France	19/06/2025	1	31	1765.45	No Poverty	Scouts | Guides
+Operation calendars 2026	Activity	France	15/06/2026	2	32	1608	Quality Education	Cubs | Flowers | Scouts | Guides
+The SGDF scout outfit	Activity	France	15/12/2025	2	37	2974.8	Quality Education	Cubs | Flowers | Scouts | Guides
+Extrajob	Activity	France	22/08/2025	2	55	1842.5	Quality Education	Cubs | Flowers | Scouts | Guides
+PIOKA weekend of January 17 and 18, 2026	Activity	France	15/06/2026	2	57	3246.15	Quality Education	Cubs | Flowers | Scouts | Guides
+SGDF 8th VDM Hem badges	Activity	France	06/08/2025	1	70	3986.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Support the compas solidarity project in Senegal	Activity	France	06/03/2025	2	44	1474	No Poverty	Rovers | Rangers | Leaders
+Epiphany Meal 2026	Activity	France	15/06/2026	1	69	3004.95	Zero Hunger	Cubs | Flowers | Scouts | Guides
+Epiphany Meal	Activity	France	10/06/2025	2	57	3055.2	Zero Hunger	Cubs | Flowers | Scouts | Guides
+ “International Meeting” project of the Pionniers-Caravelles	Meeting	France	29/10/2025	1	39	391.95	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Loan of premises - Chantilly	Activity	France	17/09/2025	2	63	3376.8	Quality Education	Cubs | Flowers | Scouts | Guides
+Make a donation	Activity	France	29/09/2025	2	70	2345	No Poverty	Cubs | Flowers | Scouts | Guides
+SGDF Chantilly-Bayard scarf 	Activity	France	02/06/2025	1	35	1993.25	Quality Education	Cubs | Flowers | Scouts | Guides
+Lot de 4 insignes à coudre 	Activity	France	24/10/2025	1	47	2361.75	Quality Education	Cubs | Flowers | Scouts | Guides
+SGDF shirt without badges 	Activity	France	16/03/2025	2	71	3329.9	Quality Education	Cubs | Flowers | Scouts | Guides
+SGDF shirt and set of 4 badges 	Event	France	20/12/2025	3	83	4170.75	Quality Education	Scouts | Guides
+Companions 2025 gift wrap	Activity	France	15/06/2025	1	56	2814	Quality Education	Cubs | Flowers | Scouts | Guides
+WE territorial companions	Activity	France	22/11/2025	1	74	3966.4	Quality Education	Cubs | Flowers | Scouts | Guides
+WE de Noel SG 2025	Activity	France	15/06/2025	2	54	2170.8	Quality Education	Cubs | Flowers | Scouts | Guides
+Companions & Farfadets Membership 2025-2026	Event	France	15/06/2025	1	99	3316.5	Quality Education	Scouts | Guides
+2025/26 membership to the Scouts and Guides of France Group in Herblay-sur-Seine	Activity	France	15/06/2025	2	40	1608	Quality Education	Cubs | Flowers | Scouts | Guides
+Compass gift wrap (Christmas 2025)	Activity	France	15/06/2025	1	32	1179.2	Quality Education	Cubs | Flowers | Scouts | Guides
+2026 Calendars	Activity	France	15/06/2026	2	46	2619.7	Quality Education	Cubs | Flowers | Scouts | Guides
+Boutique Scoute 2025/2026	Activity	France	15/06/2025	1	54	4703.4	Quality Education	Cubs | Flowers | Scouts | Guides
+Support the Pantin St Exupéry Scout Group	Activity	France	08/05/2025	2	31	1246.2	No Poverty	Cubs | Flowers | Scouts | Guides
+Support the Pantin St Exupéry Scout Group	Activity	France	14/09/2025	2	42	2673.3	No Poverty	Cubs | Flowers | Scouts | Guides
+winter camp 2026 red - PARIS	Camp	France	15/06/2026	6	104	9755.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+SGDF 2025 Shop	Activity	France	15/06/2025	2	35	1758.75	Quality Education	Cubs | Flowers | Scouts | Guides
+Appel aux dons	Activity	France	20/12/2025	1	59	2371.8	Quality Education	Cubs | Flowers | Scouts | Guides
+Comparison	Activity	France	18/03/2025	2	42	1407	Quality Education	Cubs | Flowers | Scouts | Guides
+Compatéecrust	Activity	France	07/12/2025	1	75	2512.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Lourdes Pilgrimage from April 11 to 18, 2026 Deposit	Activity	France	15/06/2026	1	31	1142.35	Quality Education	Cubs | Flowers | Scouts | Guides
+SGDF donation wasquehal cross	Activity	France	08/02/2025	2	79	4499.05	No Poverty	Cubs | Flowers | Scouts | Guides
+inscription chef 2025	Activity	France	15/06/2025	1	71	3805.6	Quality Education	Leaders
+Scout Uniform Order 2024-2025	Activity	France	15/06/2025	1	38	2036.8	Quality Education	Cubs | Flowers | Scouts | Guides
+Scout Uniform Order 2025-2026	Activity	France	15/06/2024	1	34	1366.8	Quality Education	Cubs | Flowers | Scouts | Guides
+BAFA participation	Event	France	31/07/2025	4	98	7879.2	Quality Education	Scouts | Guides
+Scout outfit order	Activity	France	30/06/2025	1	67	3142.3	Quality Education	Cubs | Flowers | Scouts | Guides
+Sortie Cité des sciences	Journey	France	17/11/2025	4	38	2036.8	Quality Education	Scouts | Guides
+WIG participation - April 5/6, 2025	Event	France	15/06/2025	5	79	5822.3	Quality Education	Scouts | Guides
+We camped piok participation - November 9/10	Camp	France	09/01/2025	9	88	5306.4	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Sale of Easter chocolates by PioK	Activity	France	05/01/2025	1	73	3179.15	Quality Education	Cubs | Flowers | Scouts | Guides
+Participation we territorial Scouts and Guides	Activity	France	14/02/2025	1	67	2468.95	Quality Education	Cubs | Flowers | Scouts | Guides
+CAMP ETE 2024 - PioK Cormeilles	Camp	France	15/06/2024	8	147	8864.1	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+SG PAI summer camp	Camp	France	08/03/2025	8	92	8013.2	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+SUMMER CAMP 2024 - scouts/guides	Camp	France	15/06/2024	9	55	4974.75	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Companions summer camp 2024	Camp	France	15/06/2024	11	142	13319.6	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+SUMMER CAMP 2023 - Cub Scouts / Jeannettes	Camp	France	15/06/2023	10	105	9497.25	Quality Education | Good Health and Well-being | Life on Land	Cubs
+CAMP ETE 2023 - PioK Cormeilles	Camp	France	15/06/2023	4	143	8143.85	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+SG summer camp payment	Camp	France	21/08/2025	11	144	12060	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+PioK train Saturday June 22	Activity	France	07/11/2025	1	64	2572.8	Quality Education	Cubs | Flowers | Scouts | Guides
+SUMMER CAMP 2023 - scouts/guides	Camp	France	15/06/2023	13	136	13212.4	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+SUMMER CAMP 2024 - FARFADETS	Camp	France	15/06/2024	11	131	10971.25	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+CAMP ETE 2023 - Farfadets	Camp	France	15/06/2023	5	148	4958	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+WE camped LJ April 6-7, 2024	Camp	France	15/06/2024	10	138	6472.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+WE SG April 27-28	Activity	France	16/02/2025	1	62	3530.9	Quality Education	Cubs | Flowers | Scouts | Guides
+We SG April 27-28 PAI	Activity	France	22/01/2025	1	38	1527.6	Quality Education	Cubs | Flowers | Scouts | Guides
+WE camped Piok	Camp	France	15/06/2023	9	125	7956.25	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+CAMP ETE PAI	Camp	France	29/01/2025	10	67	3591.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Easter chocolate sales	Activity	France	20/04/2025	2	65	2613	Quality Education	Cubs | Flowers | Scouts | Guides
+DON group of Cormeilles	Event	France	01/09/2025	2	44	1768.8	Quality Education	Scouts | Guides
+Compass chocolates!	Activity	France	06/09/2025	1	77	4127.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Camp Farfadets 	Camp	France	15/06/2025	4	123	5768.7	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Extra Job Piok 24/25	Activity	France	22/06/2025	1	35	1289.75	Quality Education	Cubs | Flowers | Scouts | Guides
+2024 calendar challenge	Activity	France	15/06/2024	2	54	2170.8	Quality Education	Cubs | Flowers | Scouts | Guides
+Distribution of Scout Calendars	Activity	France	13/10/2025	1	33	1437.15	Quality Education	Cubs | Flowers | Scouts | Guides
+BAFA participation	Event	France	08/06/2023	3	67	2693.4	Quality Education	Scouts | Guides
+WIG participation 	Event	France	15/06/2025	4	32	2572.8	Quality Education	Scouts | Guides
+Participation we campé piok 	Camp	France	05/12/2025	10	124	7892.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Participation we territorial Scouts and Guides	Activity	France	08/03/2025	2	65	3048.5	Quality Education	Cubs | Flowers | Scouts | Guides
+SG PAI summer camp	Camp	France	27/07/2025	7	66	5527.5	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Companions summer camp 2024	Camp	France	15/06/2024	13	60	5427	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Camp Farfadets 	Camp	France	15/06/2025	5	139	8381.7	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+WE LVTX-JNTS	Activity	France	09/10/2025	2	33	1879.35	Quality Education	Cubs | Flowers | Scouts | Guides
+Donation for Jean's family	Activity	France	16/05/2025	1	45	1809	No Poverty	Family
+WE LVTX-JNTS MARCH 	Activity	France	25/12/2025	1	41	2334.95	Quality Education	Cubs | Flowers | Scouts | Guides
+Blue WE 	Event	France	15/06/2024	5	69	2773.8	Quality Education	Scouts | Guides
+Game night	Activity	France	09/06/2025	2	70	3986.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Boutique Impeesa	Event	France	02/10/2025	3	88	2948	Quality Education	Scouts | Guides
+Compatoche Project	Event	France	29/09/2025	5	53	3018.35	Quality Education	Scouts | Guides
+Camp 2025-2026 Ste Marie des Vallées	Camp	France	15/06/2025	6	150	7537.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Compatoche Project	Activity	France	08/06/2023	1	68	3189.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Donation campaign 2025-2026 Ste Marie des Vallées	Camp	France	15/06/2025	9	82	4669.9	No Poverty	Scouts | Guides
+Adhésions 2025-2026 (Louveteaux-Jeannettes, Scouts-Guides, Pionniers-Caravelles)	Event	France	15/06/2025	1	84	5909.4	Quality Education	Cubs
+Memberships 2025-2026 (Farfadets / Compagnons)	Activity	France	15/06/2025	1	44	2948	Quality Education	Rovers
+Adhésions 2025-2026 (Responsables)	Activity	France	15/06/2025	1	66	2432.1	Quality Education	Cubs | Flowers | Scouts | Guides
+Order outfits - Youth	Activity	France	29/05/2025	2	54	1447.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Order outfits - Chefs / RG	Activity	France	25/11/2025	2	70	4455.5	Quality Education	Leaders
+Commande Foulard, insignes, chemises occasion (toute l'année)	Activity	France	10/02/2025	1	50	2177.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Activities	Activity	France	02/12/2025	1	75	4271.25	Quality Education	Cubs | Flowers | Scouts | Guides
+Extra-jobs - Companions and Pioneers/Caravels	Meeting	France	02/12/2025	1	39	1175.85	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Membership2025-2026	Activity	France	15/06/2025	2	77	2579.5	Quality Education	Cubs | Flowers | Scouts | Guides
+My shirt	Event	France	30/06/2025	2	90	3015	Quality Education	Scouts | Guides
+Jus de pomme BIO	Activity	France	15/05/2025	1	41	1785.55	Quality Education	Cubs | Flowers | Scouts | Guides
+Make a donation	Event	France	26/01/2025	3	50	1675	No Poverty	Scouts | Guides
+PIO - Christmas bun operation 2024	Meeting	France	15/06/2024	1	16	804	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Group purchase SGDF Saint-Symphorien	Activity	France	15/10/2025	1	45	1507.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Group purchase SGDF Saint-Symphorien 2023-2024	Activity	France	15/06/2023	2	43	1728.6	Quality Education	Cubs | Flowers | Scouts | Guides
+Sweats SGDF Saint Symphorien	Activity	France	20/07/2025	2	66	3537.6	Quality Education	Cubs | Flowers | Scouts | Guides
+badges/scarf/shirt SGDF St-Symphorien	Activity	France	04/02/2025	2	61	3065.25	Quality Education	Cubs | Flowers | Scouts | Guides
+Make a donation	Event	France	16/02/2025	5	77	3095.4	No Poverty	Scouts | Guides
+SGDF Sainte Thérèse Shop	Activity	France	23/11/2025	1	39	1306.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Make a donation	Event	France	20/01/2025	1	71	3567.75	No Poverty	Scouts | Guides
+Boutique SGDF Sainte Thérèse	Activity	France	13/08/2025	1	70	3048.5	Quality Education	Cubs | Flowers | Scouts | Guides
+order of second chance shirts 2025/2026	Activity	France	15/06/2025	2	52	2438.8	Climate Action	Cubs | Flowers | Scouts | Guides
+Group purchase Scout Shop	Activity	France	08/07/2025	1	45	2412	Quality Education	Cubs | Flowers | Scouts | Guides
+Group purchase Scout Shop	Activity	France	11/08/2025	1	34	3758.7	Quality Education	Cubs | Flowers | Scouts | Guides
+Music Festival T-Shirt	Activity	France	06/08/2025	2	39	1698.45	Quality Education	Cubs | Flowers | Scouts | Guides
+Camp Scouts - Guides Niort 2025	Camp	France	15/06/2025	4	127	11487.15	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Scouts - LRSY Guides 2025	Camp	France	15/06/2025	7	139	4656.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Pioneers-Caravelles 2025	Camp	France	15/06/2025	5	78	3135.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Support the 2025 summer camp “lescompasdansl’oeil”	Assembly	France	15/06/2025	3	41	3708.45	No Poverty	Cubs | Flowers | Scouts | Guides
+Camp Scouts - Guides Niort 2025	Camp	France	15/06/2025	6	61	3473.95	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Scouts - Guides LRSY 2025	Camp	France	15/06/2025	6	57	5537.55	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Pioneers-Caravelles 2025	Camp	France	15/06/2025	10	85	5125.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Make a donation to the Scouts and Guides of France Group - IXe Marine Brest	Activity	France	29/07/2025	1	58	2331.6	Life Below Water | No Poverty	Cubs | Flowers | Scouts | Guides
+Make a donation to the Scouts and Guides of France Group - IXe Marine Brest	Activity	France	17/01/2025	1	34	1708.5	Life Below Water | No Poverty	Cubs | Flowers | Scouts | Guides
+Make a donation	Activity	France	08/09/2025	1	68	3417	No Poverty	Cubs | Flowers | Scouts | Guides
+Make a donation	Activity	France	29/10/2025	2	47	2676.65	No Poverty	Cubs | Flowers | Scouts | Guides
+Make a donation	Activity	France	15/02/2025	2	76	4328.2	No Poverty	Cubs | Flowers | Scouts | Guides
+[RED] WE May 24-25 Charcenne	Meeting	France	04/12/2025	1	24	321.6	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+[RED] Reverse WE June 14-15, 2025	Activity	France	15/06/2025	2	55	2763.75	Quality Education	Cubs | Flowers | Scouts | Guides
+WE 6/7 March	Activity	France	16/04/2025	1	49	2462.25	Quality Education	Cubs | Flowers | Scouts | Guides
+[Rouge] Jamborée	Activity	France	27/04/2025	2	75	4020	Quality Education	Cubs | Flowers | Scouts | Guides
+SGDF - RED	Activity	France	24/08/2025	1	30	1708.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Estienne d’Orves t-shirt	Activity	France	17/07/2025	2	76	3564.4	Quality Education	Cubs | Flowers | Scouts | Guides
+2025 CALENDAR	Activity	France	15/06/2025	1	47	2361.75	Quality Education	Cubs | Flowers | Scouts | Guides
+Light of Peace of Bethlehem!	Activity	France	05/10/2025	1	43	1440.5	Peace, Justice and Strong Institutions	Cubs | Flowers | Scouts | Guides
+Sapins de Noël 2024	Activity	France	15/06/2024	2	70	3986.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Make a donation	Activity	France	28/10/2025	1	76	3309.8	No Poverty	Cubs | Flowers | Scouts | Guides
+Support our solidarity project in Namibia	Activity	France	17/11/2025	2	74	2726.9	No Poverty	Rovers | Rangers | Leaders
+Registration	Activity	France	27/12/2025	1	49	1805.65	Quality Education	Cubs | Flowers | Scouts | Guides
+Make a donation	Activity	France	29/12/2025	1	36	1326.6	No Poverty	Cubs | Flowers | Scouts | Guides
+Don aux Compas sur la Lune	Activity	France	09/10/2025	2	44	1768.8	Quality Education	Cubs | Flowers | Scouts | Guides
+Make a donation to Les Pi'verts	Activity	France	25/03/2025	2	48	2572.8	No Poverty	Cubs | Flowers | Scouts | Guides
+Group Foch Foch Eu-Mers-Le Tréport Donation	Activity	France	04/05/2025	1	42	2251.2	No Poverty	Cubs | Flowers | Scouts | Guides
+Group Foch Foch Eu-Mers-Le Tréport Donation	Activity	France	27/10/2025	2	31	1350.05	No Poverty	Cubs | Flowers | Scouts | Guides
+Camp 2023- 2022	Camp	France	15/06/2023	6	145	5343.25	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp	Camp	France	12/04/2022	8	117	6271.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Projects 2025/2026 St Christophe de Javel Group	Activity	France	15/06/2025	1	72	2894.4	Quality Education	Cubs | Flowers | Scouts | Guides
+Donate to Scouts and Guides of France marine group Estienne d Orves Vannes	Activity	France	06/08/2025	1	33	1105.5	Life Below Water	Cubs | Flowers | Scouts | Guides
+Donate to Scouts and Guides of France marine group Estienne d Orves Vannes	Activity	France	21/05/2025	1	49	2298.1	Life Below Water	Cubs | Flowers | Scouts | Guides
+Triplette Bike Project Fundraiser	Activity	France	25/06/2025	1	49	2626.4	Quality Education	Cubs | Flowers | Scouts | Guides
+Casamance Summer Solidarity Project	Activity	France	13/06/2025	2	75	2512.5	No Poverty	Rovers | Rangers | Leaders
+100th Anniversary Sweatshirt Sale	Activity	France	30/04/2025	2	78	3919.5	Quality Education	Cubs | Flowers | Scouts | Guides
+SGDF Calendar 2026 - Clamart Group	Activity	France	15/06/2026	1	44	1916.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Make a donation for the 2027 PIOK Jamboree to the JACQUES SEVIN DE CHAUMONT Group	Activity	France	15/06/2027	2	61	3473.95	No Poverty	Cubs | Flowers | Scouts | Guides
+Rainbow Scout Donations	Event	France	15/05/2025	5	33	773.85	No Poverty	Scouts | Guides
+Dons event	Event	France	01/09/2025	2	40	2546	Quality Education	Scouts | Guides
+Snow day	Activity	France	29/10/2025	2	69	2311.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Scout-guide weekend 	Jouney	France	11/08/2025	2	70	4455.5	Quality Education	Scouts | Guides
+WE PioK	Activity	France	17/07/2025	2	43	1584.55	Quality Education	Cubs | Flowers | Scouts | Guides
+Sale of t-shirts  sweatshirts VALENCE 1	Activity	France	29/04/2025	1	49	1641.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Training Registration	Meeting	France	14/03/2025	1	19	127.3	Quality Education	Scouts | Guides | Rovers | Rangers
+Thank the chefs for their investment in your children!	Assembly	France	21/04/2025	1	68	3417	Quality Education	Leaders
+CUP OF CUB AND JEANNET LEADERS	Event	France	14/08/2025	2	80	2412	Quality Education	Cubs
+SHOP order from the Valence 1 scout group	Activity	France	24/01/2025	1	49	3447.15	Quality Education	Cubs | Flowers | Scouts | Guides
+Prize pool for Cub Scout Jeannette leaders	Event	France	12/12/2025	3	90	3316.5	Quality Education	Cubs
+Commande ton sweat exclusif VALENCE 1 !	Activity 	France	20/06/2025	1	52	2090.4	Quality Education	Cubs | Flowers | Scouts | Guides
+Prize pool for Scout/Guide leaders	Event	France	28/01/2025	4	57	2482.35	Quality Education	Guides
+Sale of cheese - Valence 1 scout group	Activity	France	18/09/2025	2	33	2100.45	Quality Education	Cubs | Flowers | Scouts | Guides
+Purchase Scarves  Badges 2025-2026	Activity	France	15/06/2025	2	78	3919.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Cub Scout Camp 2025	Camp	France	15/06/2025	9	99	6301.35	Quality Education | Good Health and Well-being | Life on Land	Cubs
+Camp pionniers-caravelles 2025 (2)	Camp	France	15/06/2025	7	129	10803.75	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+ERRATUM Pioneer-caravel camp 2025	Camp	France	15/06/2025	6	87	4954.65	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Scouts / Guides Camp Summer 2025	Camp	France	15/06/2025	8	93	8100.3	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Camp Farfadets Jambville July 2025	Camp	France	15/06/2025	6	147	9356.55	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+ Cub Scout Camp July 2024	Camp	France	15/06/2024	6	53	3373.45	Quality Education | Good Health and Well-being | Life on Land	Cubs
+Soirée caritative de rentrée	Event	France	03/07/2025	4	88	2948	Quality Education	Cubs | Flowers | Scouts | Guides | Rovers | Rangers
+Purchase Shirts event	Event	France	18/07/2025	4	88	3537.6	Quality Education	Scouts | Guides
+Pioneer-caravel camp August 2024	Camp	France	15/06/2024	8	99	3648.15	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Farfadets Jambville July 2024	Camp	France	15/06/2024	9	51	1708.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Scouts  Guides Camp Summer 2024	Camp	France	15/06/2024	10	116	11269.4	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Week end de groupe 8-9 juin 2024	Journey	France	06/09/2024	5	34	1822.4	Quality Education	Scouts | Guides
+WE Louv Jeannettes May 25-26, 2024	Journey	France	15/06/2024	1	97	5524.15	Quality Education	Flowers
+Cub Scout Camp July 2024	Camp	France	15/06/2024	10	102	4100.4	Quality Education | Good Health and Well-being | Life on Land	Cubs
+Scouts Guides Day March 24	Activity	France	29/04/2025	1	75	3517.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Guides Day March 10	Activity	France	15/11/2025	2	33	1547.7	Quality Education	Guides
+Adhésion 2025 Oranges - Bleus - Rouges	Activity	France	15/06/2025	2	76	2800.6	Quality Education	Cubs | Flowers | Scouts | Guides
+2025 camp and Volunteer Membership	Activity	France	15/06/2025	2	78	2874.3	Quality Education	Cubs | Flowers | Scouts | Guides
+Membership 2025 Farfadets	Leprechauns	France	15/06/2025	2	95	3500.75	Quality Education	Scouts | Guides
+Participation 2 in activities for the year 2024/2025 - LJ SG and PC.	Activity	France	15/06/2024	1	59	3360.05	Quality Education	Cubs | Flowers | Scouts | Guides
+ donation event	Activity	France	08/03/2025	1	71	4043.45	No Poverty	Cubs | Flowers | Scouts | Guides
+Extrajobs	Activity	France	15/01/2025	2	43	1872.65	Quality Education	Cubs | Flowers | Scouts | Guides
+Purchase Scarves / Badges 2025-2026	Activity	France	15/06/2025	1	75	3517.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Cub Scout Camp 2025	Camp	France	15/06/2025	10	118	4743.6	Quality Education | Good Health and Well-being | Life on Land	Cubs
+Pioneer-caravel camp 2025 (2)	Camp	France	15/06/2025	8	96	5467.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+ERRATUM Pioneer-caravel camp 2025	Camp	France	15/06/2025	6	74	3966.4	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Scouts / Guides Eté 2025	Camp	France	15/06/2025	5	85	7973	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Farfadets Jambville July 2025	Camp	France	15/06/2025	5	114	4200.9	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+LA MURIA SUMMER CAMP 2025	 camp	Spain	04/06/2025	10	115	10016.5	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+BEAVERS – BORRASTRE SUMMER CAMP 2024	 camp	Spain	12/08/2024	10	75	6030	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+beavers their first summer camp...	 camp	Spain	10/06/2025	10	93	9034.95	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Camping at the Monastery of "El Pueyo"	 camp	Spain	01/05/2025	4	56	2438.8	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+November 24th 25th went camping...	 camp	Spain	28/09/2025	8	52	1045.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Summer Camp 2019	camp	Spain	28/08/2019	13	144	11095.2	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Summer Camp 2018	camp	Spain	07/06/2018	13	89	8050.05	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Christmas Camp in Arlanzón 2016	 camp	Spain	30/01/2016	7	113	6056.8	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Wolf Cub Stalking Camp in Poza	 camp	Spain	04/08/2025	10	125	5025	Quality Education | Good Health and Well-being | Life on Land	Cubs
+New subsidized activities	 activity	Spain	06/12/2025	2	61	1021.75	Quality Education	Cubs | Flowers | Scouts | Guides
+Pioneers – Red HillCid (Company Project)	 activity	Spain	16/10/2025	2	53	1065.3	Quality Education	Cubs | Flowers | Scouts | Guides
+Neckerchief Colors & Symbolism	 activity	Spain	01/06/2025	1	72	1447.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Member Origins & Base Location	 activity	Spain	07/01/2025	2	58	777.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Christmas camping trip	 camping	Spain	04/12/2025	7	112	8254.4	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Open House & Initial Meetings	 meeting	Spain	28/03/2025	1	35	586.25	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Scouting Creativity & Activity Updates	 activity	Spain	06/06/2025	2	72	3859.2	Quality Education	Cubs | Flowers | Scouts | Guides
+We're going camping!	 camp	Spain	15/10/2025	7	114	3437.1	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Summer Camp Announcement – Galve de Sorbe	 camp	Spain	06/07/2025	14	143	11018.15	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+STATEMENT OF INDEFINITE SUSPENSION OF ACTIVITIES.pdf	 activity	Spain	21/01/2025	2	57	1145.7	Quality Education	Cubs | Flowers | Scouts | Guides
+Camp 2025/ Galve de Sorbe (Photos)	 camp	Spain	12/04/2025	8	74	3222.7	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Scout Values & Nature Activities	 camp	Spain	02/01/2025	9	133	3564.4	Climate Action	Scouts | Guides
+Christmas Camp:	 camp	Spain	24/12/2025	5	72	3859.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Easter Camp:	 camp	Spain	06/04/2025	9	57	2482.35	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Summer Camp:	 camp	Spain	11/07/2025	10	128	9433.6	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+2025/2026 Camping Trip Dates	 camp	Spain	26/08/2025	4	146	2934.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Pass Camp:	 camp	Spain	13/06/2025	4	119	3189.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Section Camping Trips with Valencian Groups	 camp	Spain	18/12/2025	5	118	4348.3	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Scout Values & Nature Activities	meeting	Spain	12/03/2025	1	27	180.9	Climate Action	Scouts | Guides | Rovers | Rangers
+Camps	 camp	Spain	09/05/2025	6	149	2495.75	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+summer camp will take place...	 camp	Spain	16/07/2025	7	122	8582.7	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Summer Camp	 camp	Spain	26/06/2025	9	137	13309.55	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Camp 2024 – Week 1 Summary – July 2nd to 9th	 camp	Spain	22/06/2024	9	74	1983.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Sant Jordi 2026 Preparation Meeting	 meeting	Spain	16/05/2026	1	39	522.6	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Summer Camp 2025: Join us for an unforgettable experience...	 workshop	Spain	23/07/2025	3	29	2137.3	Quality Education	Leaders
+Educational Non-Formal Activities	 activity	Spain	25/10/2025	2	49	492.45	Quality Education	Cubs | Flowers | Scouts | Guides
+These activities are scheduled as follows	 activity	Spain	04/08/2025	2	58	194.3	Quality Education	Cubs | Flowers | Scouts | Guides
+Activities of the Valencian South	 activity	Spain	19/04/2025	2	78	261.3	Quality Education	Cubs | Flowers | Scouts | Guides
+Summer Camp 2025: An Unforgettable Adventure	camp	Spain	30/08/2025	7	113	10599.4	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+SUMMER CAMP 2025	 camp	Spain	29/06/2025	10	108	9768.6	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+OPENING CAMPING	 camp	Spain	02/06/2025	10	123	2884.35	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Inaugural Camping Trip – Alboloduy	 camp	Spain	14/07/2025	10	142	5232.7	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Almería Scout Planning & Assembly Weekend	 assembly	Spain	19/10/2025	2	40	402	Quality Education	Scouts | Guides
+JOTI 2025 International Online Event	 event	Spain	13/02/2025	5	50	1507.5	Partnerships for the Goals	Scouts | Guides
+Swiss Summer Camp	 camp	Spain	22/06/2025	11	124	10800.4	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Camp Price Finalization & Payment	 camp	Spain	17/08/2025	4	118	5534.2	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp ID Cards Renewal	camp	Spain	23/05/2025	7	120	3618	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Group Authorization for Camp	 camp	Spain	29/10/2025	6	142	6184.1	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Spring Camp Announcement – León	 camp	Spain	03/04/2025	5	69	3698.4	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Minor Travel Authorization	 meeting	Spain	17/10/2025	1	24	241.2	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+December Camp Departure Details	 camp	Spain	14/01/2025	8	144	5788.8	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Bus Boarding Instructions	meeting	Spain	14/01/2025	1	20	134	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Samain Exit. Round 2025-2026	 meeting	Spain	27/05/2025	1	24	241.2	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Family Meetings Information	 meeting	Spain	02/12/2025	1	23	231.15	Quality Education	Family
+Family Meeting Follow-up	 meeting	Spain	20/06/2025	1	23	385.25	Peace, Justice and Strong Institutions | Quality Education	Family
+INFORMATION FOR FAMILY MEETINGS 2025-2026	 meeting	Spain	12/04/2025	1	32	1286.4	Quality Education	Family
+Family Meeting Summary	 meeting	Spain	02/07/2025	1	15	603	Peace, Justice and Strong Institutions | Quality Education	Family
+Meeting Logistics & Activities	 meeting	Spain	12/02/2025	1	34	1366.8	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Training Information Update	 training	Spain	24/11/2025	3	28	1125.6	Quality Education	Leaders
+Group 20th Anniversary Celebration	 training	Spain	29/07/2025	2	20	804	Quality Education	Leaders
+OUR ACTIVITIES	 activity	Spain	27/07/2025	2	67	673.35	Quality Education	Cubs | Flowers | Scouts | Guides
+Attendance Policy Reminder	meeting	Spain	06/04/2025	1	35	351.75	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Group Sweatshirt Information	 activity	Spain	14/05/2025	1	51	512.55	Quality Education	Leaders | Rovers | Rangers
+Activity Structure – Part 2	 activity	Spain	03/12/2025	2	35	234.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Activity Structure – Part 3	 activity	Spain	25/02/2025	2	76	1782.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Group Celebration & Time Capsule	 activity	Spain	26/04/2025	1	41	412.05	Quality Education	Cubs | Flowers | Scouts | Guides
+WINTER CAMP 2025	camp	Spain	16/01/2026	4	129	10371.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+WINTER CAMP 2019/2020	 camp	Spain	24/12/2019	6	71	5470.55	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+WINTER CAMP IS COMING!	 camp	Spain	12/01/2026	5	83	5839.05	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Summer Camp 2019: Tabuyo del Monte!!	 camp	Spain	30/08/2019	13	131	10532.4	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Another year, another camping trip	 camp	Spain	29/09/2025	6	65	2395.25	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Departure – Train Station	 camp	Spain	01/02/2025	9	123	5768.7	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Summer Camp Departure – Bus	 camp	Spain	27/06/2025	10	103	7936.15	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+End of Year Hike – Playa de la Ñora	 camp	Spain	04/04/2025	5	67	2693.4	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+IMPORTANT: FAMILY MEETING	 meeting	Spain	12/06/2025	1	18	180.9	Peace, Justice and Strong Institutions | Quality Education	Family
+First Family Information Meeting	 meeting	Spain	25/05/2025	1	28	281.4	Quality Education	Family
+Student Supervision During Meeting	 activity	Spain	11/11/2025	1	75	753.75	Quality Education	Cubs | Flowers | Scouts | Guides
+Start of activity:	 activity	Spain	23/09/2025	2	60	201	Quality Education	Cubs | Flowers | Scouts | Guides | Rovers | Rangers
+End of activity:	 activity	Spain	19/02/2025	1	77	773.85	Quality Education	Cubs | Flowers | Scouts | Guides
+Come camping with us!	 camp	Spain	01/01/2025	4	59	1383.55	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+We're going camping this December	 camp	Spain	25/01/2025	10	97	3574.45	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Opening Excursion – Cebera, Lugones	journey	Spain	17/01/2025	5	88	4716.8	Quality Education	Scouts | Guides
+Information Resources	 training	Spain	23/02/2025	3	27	271.35	Quality Education	Leaders
+Scout Activities Overview	 activity	Spain	28/03/2025	1	46	1078.7	Quality Education	Cubs | Flowers | Scouts | Guides
+2025-2026 Activity Schedule	 activity	Spain	01/05/2025	2	57	190.95	Quality Education	Cubs | Flowers | Scouts | Guides
+Camp History	 camp	Spain	04/06/2025	5	69	2080.35	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+"For me, the federal camp has been full of friendships, m...	 camp	Spain	08/07/2025	8	150	6532.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+And after a fantastic summer camp, the Quercus Clan wante...	 camp	Spain	29/06/2025	8	96	8040	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Federal Rover Camp of	 camp	Spain	06/08/2025	8	96	1608	Quality Education | Good Health and Well-being | Life on Land	Rovers
+Trip Reflection & Experience	 meeting	Spain	17/04/2025	1	23	231.15	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Travel Value & Experience	meeting	Spain	18/03/2025	1	29	291.45	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Multi-Scout Unforgettable Experience	 activity	Spain	31/07/2025	1	38	1145.7	Quality Education	Cubs | Flowers | Scouts | Guides
+Unforgettable Experience Testimonial	meeting	Spain	08/06/2025	1	21	211.05	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Emotional Experience Summary	meeting	Spain	29/07/2025	1	31	311.55	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Salvaleón Winter Camp 2025	 camp	Spain	16/01/2026	7	71	5708.4	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Winter Camp 2025 Recap – Salvaleón	 camp	Spain	15/12/2025	7	79	4763.7	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Camp Appreciation & Thanks	 camp	Spain	22/05/2025	6	69	3004.95	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Multi-Age Camp Activities	 activity	Spain	29/08/2025	1	39	1045.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Spring Camp – La Roca de la Sierra 2024	camp	Spain	14/05/2024	7	58	2331.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Summer Meal Scholarships – EDUCO	 camp	Spain	05/06/2025	12	99	8291.25	Zero Hunger	Scouts | Guides
+Spring Camp 2023 Payment Process	 camp	Spain	20/05/2023	10	150	8542.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Camp Payment Details	 camp	Spain	26/11/2025	5	50	837.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Payment Instructions	 camp	Spain	13/02/2025	10	90	1809	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+camp authorization	 camp	Spain	07/07/2025	5	86	2592.9	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Information & Authorization	 training	Spain	05/05/2025	5	38	381.9	Quality Education	Leaders
+Camp Kitchen Team & Organization	 activity	Spain	23/02/2025	2	52	1393.6	Quality Education	Cubs | Flowers | Scouts | Guides
+PRE-REGISTRATION SPRING CAMP 2023	camp	Spain	07/05/2023	4	104	5574.4	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Summer Camp – Villamiel 2024 / GS 690 Marwan	 camp	Spain	05/06/2024	7	104	8710	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+Summer Camp – Villamiel 2024 – Patricia Cáceres (scouter)	 camp	Spain	02/07/2024	14	102	8542.5	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+SPRING CAMPING 2024	 camping	Spain	08/03/2024	9	67	2468.95	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Spring Camp 2024 Recap – Portugal	 camping	Spain	23/04/2024	5	70	4221	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Section Activities at Camp	 camping	Spain	09/04/2025	8	68	1139	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Cub Scout Orienteering & Activities	 camping	Spain	31/03/2025	5	142	4281.3	Quality Education | Good Health and Well-being | Life on Land	Cubs
+Camp Photo Gallery	 camping	Spain	24/03/2025	9	115	2311.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Family Meeting Announcement	 meeting	Spain	27/02/2025	1	23	154.1	Peace, Justice and Strong Institutions | Quality Education	Family
+NOTICE OF FAMILY ASSEMBLY RONDA SOLAR 24-25	 assembly	Spain	23/11/2025	5	41	274.7	Quality Education	Family
+Assembly Location Details	 assembly	Spain	19/11/2025	5	63	422.1	Quality Education	Scouts | Guides
+Assembly will take place September...	 assembly	Spain	15/10/2025	1	47	314.9	Quality Education	Scouts | Guides
+Extraordinary Assembly Announcement	 assembly	Spain	18/12/2025	2	77	515.9	Quality Education	Scouts | Guides
+Extraordinary Assembly	 assembly	Spain	26/05/2025	3	100	1005	Quality Education	Scouts | Guides
+Group Information Resources	 training	Spain	10/05/2025	5	31	311.55	Quality Education	Leaders
+IMPORTANT INFORMATION	 training	Spain	12/04/2025	5	25	251.25	Quality Education	Leaders
+Family Assembly for 24-25 Round	 activity	Spain	25/12/2025	2	40	402	Quality Education	Family
+Annual Activity Report 23-24	 activity	Spain	30/05/2025	1	51	341.7	Quality Education	Cubs | Flowers | Scouts | Guides
+Activity Calendar	 activity	Spain	29/06/2025	2	64	214.4	Quality Education	Cubs | Flowers | Scouts | Guides
+New Member Registration	 activity	Spain	14/02/2025	1	34	911.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Snacks to close the event	 event	Spain	14/05/2025	4	52	871	Quality Education	Scouts | Guides
+10th Anniversary Invitation	event	Spain	22/04/2025	1	69	693.45	Quality Education	Scouts | Guides
+Anniversary Celebration Invitation	event	Spain	09/08/2025	2	95	954.75	Quality Education	Scouts | Guides
+Easter Camp 2018	 camp	Spain	08/04/2018	5	98	3939.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+1. Camping Area	 camp	Spain	24/08/2025	5	75	2010	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Travel Distance & Route	 camp	Spain	22/03/2025	6	108	2532.6	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Camp Attendance Confirmation	 camp	Spain	17/12/2025	8	100	4355	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+WINTER CAMP 2017	 camp	Spain	28/01/2018	7	90	5427	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Camp Departure & Return Times	 camp	Spain	19/06/2025	8	110	1842.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+CAMPS	 camp	Spain	07/10/2025	10	53	1953.05	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Meeting for Refund & Questions	 meeting	Spain	09/10/2025	1	34	341.7	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+ASSEMBLY INFORMATION JANUARY 11, 2017	 assembly	Spain	15/12/2017	5	94	944.7	Quality Education	Leaders | Rovers | Rangers
+Alai Training Academy	 training	Spain	29/10/2025	5	35	351.75	Quality Education	Leaders
+Camp Schedule & Meal Info	 training	Spain	17/11/2025	3	44	442.2	Zero Hunger	Leaders
+More information at www.campingvaldearenas.es	 training	Spain	29/12/2025	5	37	371.85	Quality Education	Leaders
+Camp Information Link	 training	Spain	05/07/2025	5	22	221.1	Quality Education	Leaders
+Contact Information & Support	 training	Spain	26/03/2025	2	36	361.8	Quality Education | No Poverty	Leaders
+Scouting Centenary Commemoration	 activity	Spain	15/04/2025	1	54	2351.7	Quality Education	Cubs | Flowers | Scouts | Guides
+Payment Deadlines Reminder	 activity	Spain	16/12/2025	1	53	532.65	Quality Education	Cubs | Flowers | Scouts | Guides
+Summer Camp Announcement	 camp	Spain	28/06/2025	11	55	4237.75	Quality Education | Good Health and Well-being | Life on Land	Cubs | Flowers | Scouts | Guides
+hold several camps throughout year...	 camp	Spain	12/06/2025	4	138	3698.4	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Our activities	 activity	Spain	03/10/2025	2	79	793.95	Quality Education	Cubs | Flowers | Scouts | Guides
+get together other scout groups...	 activity	Spain	20/04/2025	1	30	301.5	Quality Education	Cubs | Flowers | Scouts | Guides
+Camp Daily Update – Day 8	 camp	Spain	04/11/2025	10	109	4746.95	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Group Theme & Design	 journey	Spain	12/03/2025	4	59	3360.05	Quality Education	Scouts | Guides
+Campfire Reflections & Traditions	 camp	Spain	20/05/2025	4	64	1286.4	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Sunday 29 – 4th day of camp	 camp	Spain	14/05/2025	8	60	2613	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Saturday 28 – 3rd day of camp	 camp	Spain	28/03/2025	8	102	3075.3	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Scout Section Outing Recap	meeting	Spain	27/02/2025	1	39	1567.8	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Recap – First meeting	 meeting	Spain	09/11/2025	1	28	281.4	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Meeting Recap & Photos	 meeting	Spain	14/04/2025	1	21	211.05	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Solar Round Welcome & Updates	 meeting	Spain	29/10/2025	1	28	281.4	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+International Volunteer Day	 activity	Spain	17/09/2025	2	72	723.6	Partnerships for the Goals	Cubs | Flowers | Scouts | Guides
+Camp Weather & Activity Update	 activity	Spain	09/07/2025	1	78	1829.1	Quality Education	Cubs | Flowers | Scouts | Guides
+Group History & Foundation	 camp	Spain	25/06/2025	9	104	1742	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Easter Departure	journey	Spain	25/03/2025	4	78	3658.2	Quality Education	Scouts | Guides
+Holy Week Outing – Prado del Rey	journey	Spain	17/08/2025	1	57	2291.4	Quality Education	Scouts | Guides
+Outing Objectives & Team Building	journet	Spain	07/06/2025	2	74	4214.3	Quality Education	Scouts | Guides
+First Meeting Date Record	 meeting	Spain	18/11/2025	1	30	301.5	Climate Action	Scouts | Guides | Rovers | Rangers
+Meeting Reminder – April 30	 meeting	Spain	17/05/2025	1	25	251.25	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Group History Quiz Game	 training	Spain	05/11/2025	4	40	134	Quality Education	Leaders
+Song Festival Granada Info	training	Spain	15/01/2025	2	41	412.05	Quality Education	Leaders
+Group Updates & News Hub	 activity	Spain	06/05/2025	2	39	130.65	Quality Education	Cubs | Flowers | Scouts | Guides
+The Reunion	meeting	Spain	11/03/2025	1	38	381.9	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Winter Camp 2024	 camp	Spain	21/01/2025	6	119	8770.3	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+at Winter Camp 2024	 camp	Spain	06/01/2025	3	60	4221	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides | Rovers
+Inaugural encampment at Cerro Muleras	 camping	Spain	21/09/2025	10	77	1289.75	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+PRE-REGISTRATION OR REQUEST INFORMATION	 training	Spain	17/01/2025	2	24	1206	Quality Education	Leaders
+Creative Youth Meeting in Santa Teresa Park	 meeting	Spain	01/02/2025	1	29	582.9	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Creative Youth Meeting	 meeting	Spain	06/02/2025	1	25	251.25	Peace, Justice and Strong Institutions | Quality Education	Scouts | Guides | Rovers | Rangers
+Inaugural Camping Trip 2024/25	 camping	Spain	15/05/2024	10	90	2713.5	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Inaugural Camping Trip Success	 camping	Spain	01/10/2025	7	77	3353.35	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Group News & Updates	 activity	Spain	13/10/2025	2	79	1058.6	Quality Education	Cubs | Flowers | Scouts | Guides
+Solar Round 24/25 Launch	 activity	Spain	04/04/2025	1	75	2010	Quality Education	Cubs | Flowers | Scouts | Guides
+UPCOMING EVENTS	 event	Spain	24/02/2025	4	47	787.25	Quality Education	Scouts | Guides
+Christmas Camp	 camp	Spain	09/01/2025	5	110	6633	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Activities Saturday, January 31	 activity	Spain	09/01/2025	2	59	197.65	Quality Education	Cubs | Flowers | Scouts | Guides
+Activities Saturday, January 17	 activity	Spain	15/01/2025	1	39	914.55	Quality Education	Cubs | Flowers | Scouts | Guides
+Activities Saturday, January 10	 activity	Spain	13/01/2025	1	77	515.9	Quality Education	Cubs | Flowers | Scouts | Guides
+Activities November 6	 activity	Spain	18/09/2025	1	77	2063.6	Quality Education	Cubs | Flowers | Scouts | Guides
+Activities November 29	 activity	Spain	09/09/2025	2	38	509.2	Quality Education	Cubs | Flowers | Scouts | Guides
+Activities November 22-23	activity	Spain	19/10/2025	1	77	1031.8	Quality Education	Cubs | Flowers | Scouts | Guides
+UPCOMING ACTIVITIES!!	 activity	Spain	19/04/2025	1	39	130.65	Quality Education	Cubs | Flowers | Scouts | Guides
+There are no upcoming activities available yet	 activity	Spain	31/01/2025	1	60	1005	Quality Education	Cubs | Flowers | Scouts | Guides
+Scout Values & Person Profile	 training	Spain	23/12/2025	2	32	321.6	Quality Education	Leaders
+Educational Purpose & Values	 training	Spain	18/10/2025	5	47	472.35	Quality Education	Leaders
+Scouting Evolution & Adaptation	 training	Spain	13/05/2025	2	35	1407	Quality Education	Leaders
+Volunteer Opportunities	 training	Spain	08/01/2025	2	48	160.8	Quality Education	Leaders
+camps, excursions, outdoor activities	 camp	Spain	12/11/2025	4	90	4221	Quality Education | Good Health and Well-being | Life on Land	Scouts | Guides
+Volunteer Scout Leaders Team	 training	Spain	28/10/2025	2	32	214.4	Quality Education	Leaders
+Beavers Section Introduction	 journey	Spain	03/10/2025	4	88	2063.6	Quality Education	Scouts | Guides
+4th Eurasia Youth Forum	International Event	Ukraine	05/10/2024	2	196	3265360	Peace, Justice and Strong Institutions, Quality Education, Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+7th Eurasia Scout Conference	International Event	Ukraine	21/09/2023	3	164	2689600	Peace, Justice and Strong Institutions, Quality Education, Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+NICES 2021	International Event	Netherlands	09/09/2023	11	100	810000	Quality Education	Scouts | Guides | Rovers | Rangers
+26th Australian Jamboree (AJ2022)	International Event	Australia	19/11/2023	11	136	2330496	Quality Education	Scouts | Guides | Rovers | Rangers
+Hile 2022	International Event	Finland	16/10/2023	5	86	710016	Life on Land	Scouts | Guides | Rovers | Rangers
+Finnjamboree Kajo 2022	International Event	Finland	08/09/2023	9	192	4644864	Quality Education	Scouts | Guides | Rovers | Rangers
+Jamboree Denmark 2022	International Event	Denmark	01/11/2025	9	122	1160952	Quality Education	Scouts | Guides | Rovers | Rangers
+VCP National Jamboree	International Event	Germany	20/09/2025	10	110	895400	Life on Land	Scouts | Guides | Rovers | Rangers
+Elpida - Hellenic National Jamboree 2022	International Event	Greece	28/11/2025	11	111	1034964	Life on Land	Scouts | Guides | Rovers | Rangers
+Youth Advocate Training Europe	International Event	Belgium	22/10/2025	5	170	1734000	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+JOTA-JOTI 2022	International Event	International	28/09/2025	3	175	2327500	Quality Education	Scouts | Guides | Rovers | Rangers
+European Sustainability Forum 2022	International Event	Denmark	04/11/2024	4	96	1234944	Sustainable Communities, Responsible Consumption and Production, Climate Action, Life Below Water, Life on Land, Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+European Communications Forum	International Event	Austria	07/11/2024	5	132	1237104	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+The Academy 2022	International Event	Lithuania	03/11/2023	5	126	920808	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Azimuth Platform on-line Training	International Event	International	08/10/2023	1	126	2286144	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Scouts Humanitarians: Youth Panel	International Event	International	06/11/2023	1	111	998001	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Signifo2 – include the Spiritual Dimension in your activities	International Event	Spain	14/09/2024	3	171	4122981	Good Health and Wellbeing	Scouts | Guides | Rovers | Rangers
+Peace Education training	International Event	Latvia	04/10/2025	6	160	1843200	Peace, Justice and Strong Institutions	Scouts | Guides | Rovers | Rangers
+European Youth Agora	International Event	Portugal	08/10/2025	5	179	4133289	Quality Education	Scouts | Guides | Rovers | Rangers
+1st Africa Rover Moot, Kenya 2023	International Event	Kenya	08/09/2024	11	183	3851235	Quality Education, Life on Land	Rovers
+Advocates for Europe (CANCELLED)	International Event	Belgium	19/09/2025	5	173	2484107	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+APR Awareness Workshop on Wellness and Safety in Scouting (Online)	International Event	International	12/10/2025	3	186	4255308	Good Health and Wellbeing	Scouts | Guides | Rovers | Rangers
+Overture Diversity Network	International Event	Finland	14/10/2023	3	117	1779570	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+22nd APR Scout Photo Contest	International Event	International	19/10/2024	101	123	1346481	Sustainable Communities	Scouts | Guides | Rovers | Rangers
+APR Partnerships Forum	International Event	Malaysia	06/10/2023	4	126	2254392	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+WeAct Forum	International Event	Poland	03/09/2025	5	162	3254256	Peace, Justice and Strong Institutions	Scouts | Guides | Rovers | Rangers
+Asia-Pacific Youth Mobilisation Summit	International Event	Malaysia	14/11/2024	4	127	1096772	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+25th World Scout Jamboree - Korea 2023	International Event	South Korea	25/11/2025	12	142	1451808	Quality Education, Gender Equality	Scouts | Guides | Rovers | Rangers
+10th European Educational Methods Forum	International Event	North Macedonia	23/11/2023	5	148	2015168	Quality Education	Scouts | Guides | Rovers | Rangers
+APR Humanitarian Action Workshop	International Event	Thailand	04/09/2023	4	129	1481049	Climate Action	Scouts | Guides | Rovers | Rangers
+The Academy 2023	International Event	Germany	07/11/2025	6	132	1724976	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+European Networking Event	International Event	Hungary	21/09/2024	4	128	1310720	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Chief Commissioners’ Network Meeting and Chief Executives’ Meeting	International Event	United Kingdom	20/09/2024	3	112	965888	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+ImpactYOUth: Measuring Youth Development Together	International Event	Belgium	16/10/2024	3	109	1069290	Quality Education	Scouts | Guides | Rovers | Rangers
+Agora 2024	International Event	Sweden	26/10/2025	5	105	1521450	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+The Growth Event 3.0	International Event	Czechia	24/11/2025	5	151	1801279	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Overture Diversity Network	International Event	United Kingdom	28/10/2025	3	142	2883452	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Scouts for the Ocean Decade	International Event	International	27/09/2025	31	164	2635808	Life Below Water, Sustainable Communities, Climate Action	Scouts | Guides | Rovers | Rangers
+Roverway	International Event	Norway	16/10/2023	12	124	1460720	Partnerships for the Goals	Rovers
+43rd World Scout Conference - Egypt 2024	International Event	Egypt	17/11/2024	7	135	2569725	Peace, Justice and Strong Institutions	Scouts | Guides | Rovers | Rangers
+European Sustainability Forum 2024	International Event	Greece	21/11/2025	5	183	2612142	Life on Land	Scouts | Guides | Rovers | Rangers
+JOTA-JOTI 2024	International Event	International	13/10/2024	3	80	339200	Quality Education	Scouts | Guides | Rovers | Rangers
+European Communications Forum 2024	International Event	Bulgaria	03/11/2025	5	82	497576	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+The Academy 2024	International Event	Poland	10/11/2025	6	142	2701976	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Senior Scout Adventure Cederberg 2024	International Event	South Africa	06/10/2023	12	132	1393920	Gender Equality, Good Health and Wellbeing, Responsible Consumption and Production	Scouts | Guides | Rovers | Rangers
+Arab NSOs International Commissioners Gathering 2025	International Event	Kuwait	12/10/2024	4	174	3814776	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+The 10th Sharjah International Scout Gathering	International Event	United Arab Emirates	08/10/2025	9	88	875072	Reduced Inequalities	Scouts | Guides | Rovers | Rangers
+Africa Scout Day Celebrations 2025	International Event	Madagascar	02/10/2023	3	122	803736	Quality Education	Scouts | Guides | Rovers | Rangers
+European Scout Symposium 2025	International Event	Sweden	20/11/2023	3	81	485514	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+European Agora 2025	International Event	Albania	28/10/2025	5	164	2259264	Quality Education	Scouts | Guides | Rovers | Rangers
+KISC JOTA-JOTI	International Event	International	03/09/2023	5	86	724808	Sustainable Communities	Scouts | Guides | Rovers | Rangers
+Summer 2025 International Rover Week at KISC	International Event	Switzerland	19/11/2025	9	128	1097728	Quality Education	Rovers
+25th European Scout Conference	International Event	Austria	05/09/2024	5	191	2261822	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+16th World Scout Moot	International Event	Portugal	27/10/2025	10	102	1310904	Sustainable Communities	Scouts | Guides | Rovers | Rangers
+10th Africa Scout Youth Forum	International Event	Madagascar	24/11/2024	3	156	3090672	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+19th Africa Scout Conference	International Event	Madagascar	06/10/2024	4	161	3006836	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Asia-Pacific Region Course for Leader Trainers	International Event	Taiwan	22/09/2023	7	142	2580992	Quality Education	Leaders
+11th Asia-Pacific Regional Scout Youth Forum	International Event	Taiwan	07/10/2025	4	181	1998421	Quality Education	Scouts | Guides | Rovers | Rangers
+28th Asia-Pacific Regional Scout Conference	International Event	Taiwan	16/10/2024	6	127	919353	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+Community actions BY youth, for Peace Education	International Event	Poland	23/10/2025	5	83	682011	Peace, Justice and Strong Institutions	Scouts | Guides | Rovers | Rangers
+JOTA-JOTI 2025	International Event	International	03/09/2025	3	151	1254055	Reduced Inequalities	Scouts | Guides | Rovers | Rangers
+29th Interamerica Regional Scout Conference	International Event	Curaçao	19/09/2025	4	184	1862080	Partnerships for the Goals	Scouts | Guides | Rovers | Rangers
+The Scout and Guide Academy 2025	International Event	Greece	28/09/2025	6	124	968688	Quality Education	Scouts | Guides | Rovers | Rangers
+31st Arab Scout Conference	International Event	United Arab Emirates	19/11/2025	7	115	859625	Peace, Justice and Strong Institutions	Scouts | Guides | Rovers | Rangers
+33rd Asia-Pacific Regional Scout Jamboree	International Event	Philippines	13/10/2023	8	162	3385476	Peace, Justice and Strong Institutions	Scouts | Guides | Rovers | Rangers
+Winter 2026 International Rover Week at KISC	International Event	Switzerland	08/11/2024	9	198	3998808	Peace, Justice and Strong Institutions	Rovers

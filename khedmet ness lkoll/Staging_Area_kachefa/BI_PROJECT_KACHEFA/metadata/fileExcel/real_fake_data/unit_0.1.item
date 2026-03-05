@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_dqY5wA5vEfGYH8FI0OmBRg" name="unit" dataPackage="_dqY5wQ5vEfGYH8FI0OmBRg" Server="Localhost 127.0.0.1" FilePath="C:/Users/brahm/OneDrive/Desktop/esprit/pi kachefa/generated + real/units.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Sheet1" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="Sheet1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_dqY5wQ5vEfGYH8FI0OmBRg" name="default" dataManager="_dqY5wA5vEfGYH8FI0OmBRg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_dqY5wg5vEfGYH8FI0OmBRg" id="_Ye_L4A5vEfGYH8FI0OmBRg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dqY5ww5vEfGYH8FI0OmBRg" label="unit_name" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dqY5xA5vEfGYH8FI0OmBRg" label="tranche_age" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dqY5xQ5vEfGYH8FI0OmBRg" label="genre" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dqY5xg5vEfGYH8FI0OmBRg" label="budjet" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,8 @@
+Camp	Transportation	Food	Equipment	Health/Safety	Organization	Total	participant
+Spring camp 2023-2024	2600	3000	1500	600	500	8200	
+Summer camp 2023-2024	4200	7500	3200	1100	1000	18000	
+Spring camp 2024-2025	3200	3800	1800	900	800	10500	
+Youth summer camp 2024-2025	2800	4600	2300	900	900	11500	
+Advanced summer camp 2024-2025	3400	5200	2900	1100	900	13500	
+Mobile camp 2024-2025	500	1000	200	300	0	2000	
+Preparatory camp 2025-2026	100	1500	100	100	200	2000	
